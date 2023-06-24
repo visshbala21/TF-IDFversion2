@@ -1,6 +1,5 @@
 import math
 from collections import Counter
-
 def calculate_tf_idf(documents):
     term_frequencies = []
     for doc in documents:
@@ -49,10 +48,9 @@ tfidf_scores = calculate_tf_idf(pages)
 
 keyword = input("Enter a keyword: ")
 
-
 ranked_pages = rank_pages(tfidf_scores, keyword)
 
 
-print("Ranked Pages:")
+print("Ranked Pages : ")
 for page, score in ranked_pages:
     print(f"Page {page + 1}: {score}")
