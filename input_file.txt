@@ -1,17 +1,14 @@
-Page 1
-This is the first page. It talks about the importance of technology in our lives.
+Page 1: This is the first document.
+It contains some words for testing purposes.
 
-Page 2
-Technology has revolutionized various industries such as healthcare, transportation, and communication.
+Page 2: Here is the second document.
+It has different words compared to the first document.
 
-Page 3
-In healthcare, technology has improved the accuracy of diagnoses and the efficiency of medical procedures.
+Page 3: This is the third document.
+It shares some words with the first document.
 
-Page 4
-Transportation has become faster and more convenient with the advent of technologies like self-driving cars.
+Page 4: This is the fourth document.
+It has unique words for testing.
 
-Page 5
-Communication has also greatly benefited from technology, enabling instant worldwide connections.
-
-Page 6
-Overall, technology has had a profound impact on society and continues to shape our future.
+Page 5: This is the fifth document.
+It is similar to the second document in terms of words used.
